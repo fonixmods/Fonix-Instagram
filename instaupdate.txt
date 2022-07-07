@@ -1,1 +1,1 @@
-{'ver1':'5', 'ver2':'50', 'ver3':'\n[Base update]1. 232.0.0.16.114\n[Added]2. Font Styles\n' , 'dli':'https://fonixmodsapkstore.blogspot.com/2022/05/fonix-instagram.html'}
+{'ver1':'5', 'ver2':'50', 'ver3':'\n[Base update]1. 240.2.0.18.107\n[Misc]2. Other Fixes And Improvements\n' , 'dli':'https://fonixmodsapkstore.blogspot.com/2022/05/fonix-instagram.html'}
